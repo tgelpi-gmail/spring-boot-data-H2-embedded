@@ -1,6 +1,6 @@
 # Spring-boot-data-H2-embedded
 
-In this app, I used H2 in-memory database for demo purpose
+In this app, I used H2 in-memory database for demo purpose. OK.
 
 **Application.properties**
 
