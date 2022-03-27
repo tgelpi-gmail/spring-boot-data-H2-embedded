@@ -1,4 +1,4 @@
-package com.lambdatest
+package com.lambdatest;
 
 import java.net.MalformedURLException;
 import java.net.URL;
